@@ -1,0 +1,47 @@
+
+h1{
+    margin:35px;
+    color: #343331;
+    font-size:170px;
+    letter-spacing:-10px;
+    text-align:center
+}
+h2{
+    color:#9b9a96;
+    font-size:30px;
+    font-weight:300;
+    margin-bottom:50px;
+    text-align:center
+}
+.container{
+    width:640px;
+    margin:0 auto;
+}
+#users{
+    height:40px;
+    width:250px;
+    border:1px solid #9b9a96;
+    font-size:20px
+}
+#pause{
+    height:40px;
+    border:1px solid #9b9a96;
+    margin-left:5px;
+}
+#play{
+    height:40px;
+    display:inline-block;
+    border:1px solid #9b9a96;
+}
+.buttons{
+    width:60px;
+    border-radius: 10px;
+    float:right;
+    cursor:pointer;
+
+}
+.buttons:hover{
+    background:#cdccca;
+}
+
+
